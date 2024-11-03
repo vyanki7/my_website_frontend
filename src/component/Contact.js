@@ -17,10 +17,10 @@ const Contact = () => {
           Feel free to reach us via email, phone, or use the contact form below.
         </p>
         <div className="contact-info mb-8">
-          <p className="text-lg text-gray-700">
+          <p className="text-lg text-white">
             <strong className="text-orange-500">Email:</strong> vyankateshr777@gmail.com
           </p>
-          <p className="text-lg text-gray-700">
+          <p className="text-lg text-white">
             <strong className="text-orange-500">Phone:</strong> +91 8208514294
           </p>
         </div>
