@@ -21,7 +21,7 @@ const Services = () => {
           />
           <h3 className="text-xl text-orange-500 font-semibold mb-2">Mobile Application Development</h3>
           <p className="text-white mb-4">
-            A brief description of Service One. Explain what makes it valuable or unique.
+          Crafting high-performance, cross-platform mobile apps with Flutter, delivering seamless user experiences and robust functionality for Android and iOS.
           </p>
           {/* <button className="bg-orange-500 text-white py-2 px-4 rounded-lg hover:bg-orange-600">
             Learn More
@@ -37,7 +37,7 @@ const Services = () => {
           />
           <h3 className="text-xl text-orange-500 font-semibold mb-2">Website Development</h3>
           <p className="text-white mb-4">
-            A brief description of Service Two. Highlight key features or benefits.
+          Building responsive, user-friendly websites tailored to your brand, focusing on design, speed, and optimized performance across all devices.r benefits.
           </p>
           {/* <button className="bg-orange-500 text-white py-2 px-4 rounded-lg hover:bg-orange-600">
             Learn More
@@ -53,7 +53,7 @@ const Services = () => {
           />
           <h3 className="text-xl font-semibold mb-2 text-orange-500">Web Application Development</h3>
           <p className="text-white mb-4">
-            A brief description of Service Three. Emphasize its importance or uniqueness.
+          Developing dynamic, feature-rich web applications with intuitive interfaces, designed for scalability, security, and efficient functionality to meet business needs.
           </p>
           {/* <button className="bg-orange-500 text-white py-2 px-4 rounded-lg hover:bg-orange-600">
             Learn More

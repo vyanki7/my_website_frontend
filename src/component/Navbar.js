@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="fixed w-full z-20 bg-black text-white py-4 px-6 flex items-center justify-between">
       {/* Logo */}
-      <div className="text-orange-500 font-bold text-lg hover:text-orange-600">MyLogo</div>
+      <div className="text-orange-500 font-bold text-lg hover:text-orange-600">Rv_developer</div>
 
       {/* Links for desktop */}
       <div className="hidden md:flex space-x-6">
