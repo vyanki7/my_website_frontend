@@ -77,13 +77,13 @@ const Navbar = () => {
           >
             Services
           </a>
-          <a
+          {/* <a
             href="#portfolio"
             className="hover:text-orange-600 text-lg"
             onClick={toggleMenu}
           >
             Portfolio
-          </a>
+          </a> */}
           <a
             href="#contact"
             className="hover:text-orange-600 text-lg"
